@@ -1,12 +1,4 @@
 {
     "welcome_header": "Hello world again!",
-    "greeting": "One two three",
-    "test.key.1": "test key",
-    "test.key.2": "another test key",
-    "test.key.4": "Drivers on the bus",
-    "test.key.5": "Tomorrow",
-    "test.key.6": "These dreams",
-    "test.key.7": "will come true again",
-    "test.key.8": "This key is only in English",
-    "test.key.9": "This key is only in English too"
+    "greeting": "One two three"
 }
