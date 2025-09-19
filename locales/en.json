@@ -3,6 +3,6 @@
     "greeting": "One two three",
     "new.key.2": "Should be different",
     "new.key": "Updated key",
-    "new.key.3": "Updated key again",
+    "new.key.3": "This should be something else",
     "new.key.4": "New key four"
 }
