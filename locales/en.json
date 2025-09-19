@@ -1,6 +1,6 @@
 {
     "welcome_header": "Hello world again!",
     "greeting": "One two three",
-    "new.key.2": "Updated key two",
+    "new.key.2": "Should be different",
     "new.key.3": "New key three"
 }
